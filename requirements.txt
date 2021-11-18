@@ -1,2 +1,5 @@
 Flask
 Gunicorn
+Re
+Random
+Numpy
